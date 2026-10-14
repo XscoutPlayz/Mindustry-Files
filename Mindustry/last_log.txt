@@ -10,3 +10,4 @@
 [I] [Mindustry] Version: 160.5
 [I] Total time to load: 3271ms
 [I] Fetched 266 community servers.
+[I] Saved on exit.
